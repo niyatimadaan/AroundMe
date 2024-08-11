@@ -14,9 +14,12 @@ AroundMe is a Flutter application designed to help users find nearby fitness cen
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<!-- ![Home Screen](screenshots/home_screen.png) -->
+<img src="screenshots/home_screen.png" alt="Home Screen" style="width:50%;">
+
 ### List Screen
-![List Screen](screenshots/list_screen.png)
+<!-- ![List Screen](screenshots/list_screen.png) -->
+<img src="screenshots/list_screen.png" alt="Home Screen" style="width:50%;">
 
 ## Installation
 
